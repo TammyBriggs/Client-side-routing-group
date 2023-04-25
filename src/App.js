@@ -2,9 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <router>
-      <home />
-    </router>
+   l
   );
 }
 
